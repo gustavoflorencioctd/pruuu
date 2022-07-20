@@ -1,0 +1,1 @@
+Respositorio criado para armazenar um projeto, ele sera um simulador do Twitter e sera chamado de 'Pruu, O pombo'.
