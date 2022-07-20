@@ -8,22 +8,18 @@ public class Pru {
 	private Date data;
 	private int quantidadeLikes;
 	private boolean bloqueado;
-	
-	
+
 	public void setTexto(String texto) {
 		this.texto = texto;
 	}
-
 
 	public void mensagem(String texto) {
 		setTexto(texto);
 	}
 
-
 	@Override
 	public String toString() {
 		return "Pru [texto=" + texto + "]";
 	}
-	
-	
+
 }
